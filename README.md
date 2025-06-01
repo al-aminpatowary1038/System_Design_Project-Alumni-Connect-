@@ -1,2 +1,1 @@
-AlumniConnect: Next-Gen Relationship & Fundraising Suite
-!!!
+# AlumniConnect: Next-Gen Relationship & Fundraising Suite !!!
